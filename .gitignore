@@ -1,0 +1,6 @@
+data/
+.idea/
+.ipynb_chekpoints/
+*.csv
+*.pdf
+*.json
