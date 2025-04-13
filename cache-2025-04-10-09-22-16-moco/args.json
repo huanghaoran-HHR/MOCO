@@ -1,0 +1,19 @@
+{
+  "arch": "resnet18",
+  "lr": 0.01,
+  "epochs": 200,
+  "schedule": [],
+  "cos": false,
+  "batch_size": 512,
+  "wd": 0.0005,
+  "moco_dim": 128,
+  "moco_k": 4096,
+  "moco_m": 0.99,
+  "moco_t": 0.1,
+  "bn_splits": 8,
+  "symmetric": false,
+  "knn_k": 200,
+  "knn_t": 0.1,
+  "resume": "",
+  "results_dir": "/home/lab-huang.haoran/moco_flowers/cache-2025-04-10-09-22-16-moco"
+}
